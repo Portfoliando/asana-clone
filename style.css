@@ -17,3 +17,9 @@ ul {
 
     font-size: 4rem;
 }
+
+p {
+
+    text-align: center;
+    border: 0.1rem solid black;
+}
